@@ -14,6 +14,9 @@ public class ReverseEachWord {
 		 * System.out.println(strReverse(strWords[i]));
 		 * 
 		 * }
+		 * 
+		 * 
+		 * dgdsgdsgdsgsd
 		 */
 
 		for (int k = 0; k < strWords.length; k++) {
