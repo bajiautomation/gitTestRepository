@@ -3,7 +3,8 @@ package gitTest;
 public class test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Test class message");
+		System.out.println("Test class message 2s");
 
 	}
 
